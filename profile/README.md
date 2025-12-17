@@ -7,4 +7,13 @@
     <a href="https://chain.so/address/LTC/ltc1qchk520v4u8334n5dntmgeja55gc5g5rrkgpd4f"><img src="https://img.shields.io/badge/donate-litecoin-345D9D.svg?logo=litecoin" alt="Litecoin" /></a>
     <a href="https://commerce.coinbase.com/checkout/817de5cb-d88e-4d79-8af3-a4b8696f2f2a"><img src="https://img.shields.io/badge/donate-coinbase-3B99FC.svg" alt="Litecoin" /></a>
 </p>
+
+**Tiny-Essentials** is a tiny organization focused on little things that make a big difference in projects, even the tiniest essentials can spark joy, learning, and inspiration ✨
+
+We love simplicity and thoughtful details from tiny tools and experiments to gentle ideas that grow into something special.
+
+This is a place where curiosity is welcome, creativity is encouraged, and every small project matters 🌱
+
+Made with care, patience, and a lot of love 💕
+
 </div>
