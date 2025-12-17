@@ -8,3 +8,6 @@
     <a href="https://commerce.coinbase.com/checkout/817de5cb-d88e-4d79-8af3-a4b8696f2f2a"><img src="https://img.shields.io/badge/donate-coinbase-3B99FC.svg" alt="Litecoin" /></a>
 </p>
 </div>
+
+> 🧠 **Note**: This documentation was written by [ChatGPT](https://openai.com/chatgpt), an AI assistant developed by OpenAI, based on the project structure and descriptions provided by the repository author.  
+> If you find any inaccuracies or need improvements, feel free to contribute or open an issue!
