@@ -14,7 +14,7 @@
 
 We love simplicity and thoughtful details from tiny tools and experiments to gentle ideas that grow into something special.
 
-This is a place where curiosity is welcome, creativity is encouraged, and every small project matters 🌱
+This is a place where curiosity is welcome, creativity is encouraged, and every small project matters.
 
 Made with care, patience, and a lot of love 💕
 
