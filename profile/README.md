@@ -10,7 +10,7 @@
 
 ## Welcome
 
-**Tiny-Essentials** is a tiny organization focused on little things that make a big difference in projects, even the tiniest essentials can spark joy, learning, and inspiration ✨
+**Tiny-Essentials** is a tiny organization focused on little things that make a big difference in projects, even the tiniest essentials can spark joy, learning, and inspiration.
 
 We love simplicity and thoughtful details from tiny tools and experiments to gentle ideas that grow into something special.
 
