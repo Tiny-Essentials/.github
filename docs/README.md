@@ -13,5 +13,12 @@ If you're curious about how I integrate AI into my development workflow — incl
 
 ### Suno
 
+**IMPORTANT**
+
+> Some tutorials in this section may require at least a **Basic Subscription** (Pro Plan) to access specific features like reference uploads or extended generations.
+
 * [**Seamless Audio Looping**](./suno/seamless-audio-looping.md)
   A specialized technical protocol for AI audio engines. It focuses on fixing broken loops by preserving instrumental integrity.
+
+* [**Character-to-Music (C2M) Workflow**](./suno/character-to-music-workflow.md)
+A methodology for translating OC descriptions and visual traits into consistent musical identities. It uses iterative feedback to build a reliable reference library for character-specific soundtracks.
