@@ -10,3 +10,8 @@ If you're curious about how I integrate AI into my development workflow — incl
 
 * [**Personal AI Prompts (Portuguese)**](./Personal-Ai-Prompts%28portuguese%29.md)
   The same set of personal AI prompts, but fully translated into Portuguese for ease of use in native language contexts.
+
+### Suno
+
+* [**Seamless Audio Looping**](./suno/seamless-audio-looping.md)
+  A specialized technical protocol for AI audio engines. It focuses on fixing broken loops by preserving instrumental integrity.
