@@ -21,7 +21,7 @@ Made with care, patience, and a lot of love 💕
 ### ✨ AI & Workflow Notes
 
 Curious about how AI fits into our workflow?
-Explore our guides on prompts and thoughtful AI usage — all in one tiny place, click [here](../docs).
+Explore our guides on prompts and thoughtful AI usage — all in one tiny place, click [here](https://github.com/Tiny-Essentials/Tiny-Code-Agent).
 
 
 </div>
