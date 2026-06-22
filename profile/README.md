@@ -10,7 +10,7 @@
 
 ## Welcome
 
-**Tiny-Essentials** is a tiny organization focused on little things that make a big difference in projects, even the tiniest essentials can spark joy, learning, and inspiration. The project was initialized on January 1, 2025, and since that date it has been evolving, receiving more and more new and different features to make developers’ lives easier.
+**Tiny-Essentials** is a tiny organization focused on little things that make a big difference in projects, even the tiniest essentials can spark joy, learning, and inspiration. The project was initialized on January 1, 2025, and since that date, it has been evolving, receiving more and more new and different features to make developers’ lives easier.
 
 We love simplicity and thoughtful details from tiny tools and experiments to gentle ideas that grow into something special.
 
@@ -18,10 +18,23 @@ This is a place where curiosity is welcome, creativity is encouraged, and every 
 
 Made with care, patience, and a lot of love 💕
 
+---
+
+## 🚀 Explore Our Ecosystem
+
+Discover the heartbeat of our organization through our main repositories:
+
+### 🛠️ [Tiny-Bash](https://github.com/Tiny-Essentials/Tiny-Bash)
+**The Toolkit.** A curated collection of personal Bash automation scripts designed to manage servers, databases, and streamline daily developer workflows.
+
+### 🌱 [Tiny-Essentials](https://github.com/Tiny-Essentials/Tiny-Essentials)
+**The Foundation.** The core repository and the very first spark that gave life to this entire organization. This is where our journey began.
+
+---
+
 ### ✨ AI & Workflow Notes
 
 Curious about how AI fits into our workflow?
 Explore our guides on prompts and thoughtful AI usage — all in one tiny place, click [here](https://github.com/Tiny-Essentials/Tiny-AI-Workflow).
-
 
 </div>
